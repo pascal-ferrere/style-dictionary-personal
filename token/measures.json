@@ -1,0 +1,664 @@
+{
+  "measure": {
+    "font-size": {
+      "size": {
+        "font": {
+          "huge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 48
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "mega": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 160
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "large": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 20
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "small": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 16
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xhuge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 80
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "medium": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 18
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 22
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xsmall": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 14
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 28
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxsmall": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 12
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxxlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 32
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxxsmall": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 10
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          }
+        }
+      }
+    },
+    "opacity": {
+      "opacity": {
+        "ghost": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "Used to hide elements"
+        },
+        "overlay": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0.9
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "Used for overlay BGs only"
+        },
+        "disabled": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0.4
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "Used as disabled state"
+        }
+      }
+    },
+    "line-height": {
+      "size": {
+        "lineheight": {
+          "huge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 52
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "mega": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 168
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "large": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 24
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "small": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 16
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xhuge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 88
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "medium": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 20
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 28
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xsmall": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 12
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 32
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxxlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 36
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          }
+        }
+      }
+    },
+    "spacing": {
+      "size": {
+        "space": {
+          "large": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 20
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "small": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 12
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "medium": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 16
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 24
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xsmall": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 8
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 32
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxxlarge": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 40
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxxsmall": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 2
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "xxsmall": {
+            "value": "{measure.sizing.size.gridunit.value}",
+            "type": "measure"
+          }
+        }
+      }
+    },
+    "sizing": {
+      "size": {
+        "grid": {
+          "fixed": {
+            "width": {
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 600
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              },
+              "type": "measure",
+              "comment": "Width of the main content with a fixed size"
+            }
+          },
+          "layout": {
+            "large": {
+              "min-width": {
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 1730
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                },
+                "type": "measure",
+                "comment": "Min-width of the main content on Desktop Large"
+              }
+            },
+            "medium": {
+              "max-width": {
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 1729
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                },
+                "type": "measure",
+                "comment": "Max-width of the main content on Desktop Medium"
+              },
+              "min-width": {
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 1440
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                },
+                "type": "measure",
+                "comment": "Min-width of the main content on Desktop Medium"
+              }
+            },
+            "small": {
+              "max-width": {
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 1439
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                },
+                "type": "measure",
+                "comment": "Max-width of the main content on Desktop Small"
+              },
+              "min-width": {
+                "value": {
+                  "measure": {
+                    "type": "size",
+                    "value": 1140
+                  },
+                  "unit": {
+                    "type": "string",
+                    "value": "pixels"
+                  }
+                },
+                "type": "measure",
+                "comment": "Min-width of the main content on Desktop Small"
+              }
+            }
+          },
+          "columns": {
+            "left": {
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 330
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              },
+              "type": "measure",
+              "comment": "Fixed left column on Desktop"
+            },
+            "right": {
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 330
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              },
+              "type": "measure",
+              "comment": "Fixed right column on Desktop"
+            },
+            "left-small": {
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 300
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              },
+              "type": "measure",
+              "comment": "Small fixed left column on Desktop"
+            }
+          }
+        },
+        "icons": {
+          "large": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 24
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure",
+            "comment": "Large icon size"
+          },
+          "small": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 16
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure",
+            "comment": "Small icon size"
+          },
+          "medium": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 20
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure",
+            "comment": "Medium icon size"
+          }
+        },
+        "gridunit": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 4
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "Unit of reference"
+        }
+      }
+    }
+  }
+}

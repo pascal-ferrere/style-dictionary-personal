@@ -1,0 +1,1851 @@
+{
+  "color": {
+    "color": {
+      "red": {
+        "r100": {
+          "value": "#ffebecff",
+          "type": "color",
+          "comment": "Red 100"
+        },
+        "r200": {
+          "value": "#ffa0a8ff",
+          "type": "color",
+          "comment": "Red 200"
+        },
+        "r300": {
+          "value": "#ff4152ff",
+          "type": "color",
+          "comment": "Red 300"
+        },
+        "r400": {
+          "value": "#e10014ff",
+          "type": "color",
+          "comment": "Red 400"
+        },
+        "r500": {
+          "value": "#96000dff",
+          "type": "color",
+          "comment": "Red 500"
+        },
+        "r600": {
+          "value": "#4b0007ff",
+          "type": "color",
+          "comment": "Red 600"
+        }
+      },
+      "blue": {
+        "b100": {
+          "value": "#dce8f9ff",
+          "type": "color",
+          "comment": "Blue 100"
+        },
+        "b200": {
+          "value": "#b6d0f3ff",
+          "type": "color",
+          "comment": "Blue 200"
+        },
+        "b300": {
+          "value": "#6ca1e7ff",
+          "type": "color",
+          "comment": "Blue 300"
+        },
+        "b400": {
+          "value": "#2472d9ff",
+          "type": "color",
+          "comment": "Blue 400"
+        },
+        "b500": {
+          "value": "#184c91ff",
+          "type": "color",
+          "comment": "Blue 500"
+        },
+        "b600": {
+          "value": "#0c2648ff",
+          "type": "color",
+          "comment": "Blue 600"
+        }
+      },
+      "cyan": {
+        "c100": {
+          "value": "#ccf3ffff",
+          "type": "color",
+          "comment": "Cyan 100"
+        },
+        "c200": {
+          "value": "#b3edffff",
+          "type": "color",
+          "comment": "Cyan 200"
+        },
+        "c300": {
+          "value": "#66daffff",
+          "type": "color",
+          "comment": "Cyan 300"
+        },
+        "c400": {
+          "value": "#00c2ffff",
+          "type": "color",
+          "comment": "Cyan 400"
+        },
+        "c500": {
+          "value": "#007499ff",
+          "type": "color",
+          "comment": "Cyan 500"
+        },
+        "c600": {
+          "value": "#003a4dff",
+          "type": "color",
+          "comment": "Cyan 600"
+        }
+      },
+      "pink": {
+        "p100": {
+          "value": "#ffcceaff",
+          "type": "color",
+          "comment": "Pink 100"
+        },
+        "p200": {
+          "value": "#ff99d4ff",
+          "type": "color",
+          "comment": "Pink 200"
+        },
+        "p300": {
+          "value": "#ff33aaff",
+          "type": "color",
+          "comment": "Pink 300"
+        },
+        "p400": {
+          "value": "#ff0195ff",
+          "type": "color",
+          "comment": "Pink 400"
+        },
+        "p500": {
+          "value": "#990059ff",
+          "type": "color",
+          "comment": "Pink 500"
+        },
+        "p600": {
+          "value": "#4d002dff",
+          "type": "color",
+          "comment": "Pink 600"
+        }
+      },
+      "black": {
+        "bk100": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "bk200": {
+          "value": "#eef0f3ff",
+          "type": "color"
+        },
+        "bk300": {
+          "value": "#bcc0c9ff",
+          "type": "color"
+        },
+        "bk400": {
+          "value": "#9aa1afff",
+          "type": "color"
+        },
+        "bk500": {
+          "value": "#798293ff",
+          "type": "color"
+        },
+        "bk600": {
+          "value": "#5d6473ff",
+          "type": "color"
+        },
+        "bk700": {
+          "value": "#414752ff",
+          "type": "color"
+        },
+        "bk800": {
+          "value": "#272a30ff",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "boost": {
+          "value": "#ffc900ff",
+          "type": "color"
+        },
+        "qatar": {
+          "value": "#be004fff",
+          "type": "color",
+          "comment": "Qatar World Cup 2022"
+        },
+        "betclic": {
+          "value": "#d2161eff",
+          "type": "color"
+        },
+        "betting": {
+          "value": "#ffcc00ff",
+          "type": "color"
+        },
+        "cashout": {
+          "value": "#009ee2ff",
+          "type": "color"
+        },
+        "safebet": {
+          "value": "#032f6bff",
+          "type": "color"
+        },
+        "firstbet": {
+          "value": "#c07a00ff",
+          "type": "color",
+          "comment": "Firstbet banner"
+        },
+        "freebets": {
+          "value": "#ff3c00ff",
+          "type": "color"
+        },
+        "multiplus": {
+          "value": "#fe8000ff",
+          "type": "color"
+        },
+        "superlive": {
+          "value": "#fff5ccff",
+          "type": "color",
+          "comment": "Superlive color"
+        },
+        "master-mission": {
+          "value": "#e1a610ff",
+          "type": "color",
+          "comment": "Master Missions"
+        },
+        "overlay-betslip": {
+          "value": "#272a30f0",
+          "type": "color",
+          "comment": "Betslip banner DM"
+        },
+        "safebet-primary": {
+          "value": "#184c91ff",
+          "type": "color",
+          "comment": "Safebet primary banner"
+        },
+        "safebet-tertiary": {
+          "value": "#00f7d3ff",
+          "type": "color",
+          "comment": "Safebet diamond icon"
+        },
+        "safebet-secondary": {
+          "value": "#5d6473ff",
+          "type": "color",
+          "comment": "Safebet secondary banner"
+        }
+      },
+      "green": {
+        "g100": {
+          "value": "#dff6ebff",
+          "type": "color",
+          "comment": "Green 100"
+        },
+        "g200": {
+          "value": "#b6ead0ff",
+          "type": "color",
+          "comment": "Green 200"
+        },
+        "g300": {
+          "value": "#6ed6a1ff",
+          "type": "color",
+          "comment": "Green 300"
+        },
+        "g400": {
+          "value": "#33b372ff",
+          "type": "color",
+          "comment": "Green 400"
+        },
+        "g500": {
+          "value": "#22774cff",
+          "type": "color",
+          "comment": "Green 500"
+        },
+        "g600": {
+          "value": "#113c26ff",
+          "type": "color",
+          "comment": "Green 600"
+        }
+      },
+      "orange": {
+        "o100": {
+          "value": "#fff7f0ff",
+          "type": "color",
+          "comment": "Orange 100"
+        },
+        "o200": {
+          "value": "#ffecd9ff",
+          "type": "color",
+          "comment": "Orange 200"
+        },
+        "o300": {
+          "value": "#ffbb7fff",
+          "type": "color",
+          "comment": "Orange 300"
+        },
+        "o400": {
+          "value": "#ff993fff",
+          "type": "color",
+          "comment": "Orange 400"
+        },
+        "o500": {
+          "value": "#fe8000ff",
+          "type": "color",
+          "comment": "Orange 500"
+        },
+        "o600": {
+          "value": "#ff3c00ff",
+          "type": "color",
+          "comment": "Orange 600"
+        }
+      },
+      "violet": {
+        "v100": {
+          "value": "#eaccffff",
+          "type": "color",
+          "comment": "Violet 100"
+        },
+        "v200": {
+          "value": "#d599ffff",
+          "type": "color",
+          "comment": "Violet 200"
+        },
+        "v300": {
+          "value": "#b54cffff",
+          "type": "color",
+          "comment": "Violet 300"
+        },
+        "v400": {
+          "value": "#9500ffff",
+          "type": "color",
+          "comment": "Violet 400"
+        },
+        "v500": {
+          "value": "#590099ff",
+          "type": "color",
+          "comment": "Violet 500"
+        },
+        "v600": {
+          "value": "#2d004dff",
+          "type": "color",
+          "comment": "Violet 600"
+        }
+      },
+      "yellow": {
+        "y100": {
+          "value": "#fffcf0ff",
+          "type": "color",
+          "comment": "Yellow 100"
+        },
+        "y200": {
+          "value": "#fff5ccff",
+          "type": "color",
+          "comment": "Yellow 200"
+        },
+        "y300": {
+          "value": "#ffe066ff",
+          "type": "color",
+          "comment": "Yellow 300"
+        },
+        "y400": {
+          "value": "#ffcc00ff",
+          "type": "color",
+          "comment": "Yellow 400"
+        },
+        "y500": {
+          "value": "#cca400ff",
+          "type": "color",
+          "comment": "Yellow 500"
+        },
+        "y600": {
+          "value": "#665200ff",
+          "type": "color",
+          "comment": "Yellow 600"
+        }
+      },
+      "bg": {
+        "list": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used only for grouped lists"
+        },
+        "score": {
+          "value": "{color.color.black.bk700.value}",
+          "type": "color",
+          "comment": "Used to highlight the score on live matches"
+        },
+        "video": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used as a BG when a video is playing"
+        },
+        "header": {
+          "value": "{color.color.brand.betclic.value}",
+          "type": "color",
+          "comment": "Used only for the headeer "
+        },
+        "overlay": {
+          "value": "{color.color.opacity.black.op90.value}",
+          "type": "color",
+          "comment": "Used for overlay backgrounds"
+        },
+        "primary": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for most backgrounds"
+        },
+        "tertiary": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used for special backgrounds"
+        },
+        "secondary": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for secondary backgrounds"
+        },
+        "title-soft": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used on the header of results cards"
+        },
+        "title-brand": {
+          "value": "{color.color.brand.betclic.value}",
+          "type": "color",
+          "comment": "Used on the header of Hotbets cards"
+        },
+        "overlay_soft": {
+          "value": "{color.color.opacity.black.op30.value}",
+          "type": "color",
+          "comment": "Used for overlays on playing videos"
+        },
+        "brand_primary": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used for branded backgrounds"
+        },
+        "brand_secondary": {
+          "value": "{color.color.red.r500.value}",
+          "type": "color",
+          "comment": "Used for branded backgrounds "
+        },
+        "title-highlight": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used on the header of Mycombi cards"
+        },
+        "overlay_container": {
+          "value": "{color.color.brand.overlay-betslip.value}",
+          "type": "color",
+          "comment": "Used for the BG of the betslip"
+        }
+      },
+      "ui": {
+        "tab-on": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used to highlight an active tab"
+        },
+        "tab-off": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used to highlight an inactive tab"
+        },
+        "action-on": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used for checkboxes/radio-buttons when ON"
+        },
+        "card_live": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used for Live card backgrounds"
+        },
+        "tag-timer": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used only for tags on live cards"
+        },
+        "toggle-on": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Used for toggle items when ON"
+        },
+        "action-off": {
+          "value": "{color.color.black.bk300.value}",
+          "type": "color",
+          "comment": "Used for checkboxes/radio-buttons when OFF"
+        },
+        "tag-hotbet": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used only for bet tags on cards"
+        },
+        "toggle-off": {
+          "value": "{color.color.black.bk400.value}",
+          "type": "color",
+          "comment": "Used for toggle items when OFF"
+        },
+        "input-error": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for input fields with an error"
+        },
+        "tag-markets": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used only for prebet tags on cards"
+        },
+        "card_primary": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for default card backgrounds "
+        },
+        "notification": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used for notifications badges"
+        },
+        "input-default": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for input fields "
+        },
+        "tag-timer_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used only for tags on live cards"
+        },
+        "toggle-on_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for toggle items when ON with red Bg"
+        },
+        "input-selected": {
+          "value": "{color.color.opacity.black.op10.value}",
+          "type": "color",
+          "comment": "Used for selected input fields"
+        },
+        "selection-line": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used only lines on match cards"
+        },
+        "separator-soft": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for separator elements"
+        },
+        "toggle-off_alt": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for toggle items when OFF with red Bg"
+        },
+        "input-error_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for input fields with an error on red Bg"
+        },
+        "separator-light": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for separator elements"
+        },
+        "separator-strong": {
+          "value": "{color.color.black.bk700.value}",
+          "type": "color",
+          "comment": "Used for separator elements on dark Bg"
+        },
+        "action-on-pressed": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used for checkboxes/radio-buttons when ON"
+        },
+        "input-default_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for input fields on red Bg"
+        },
+        "action-off-pressed": {
+          "value": "{color.color.black.bk400.value}",
+          "type": "color",
+          "comment": "Used for checkboxes/radio-buttons when OFF"
+        },
+        "input-selected_alt": {
+          "value": "{color.color.opacity.black.op10.value}",
+          "type": "color",
+          "comment": "Used for selected input fields on red Bg"
+        },
+        "separator-soft_alt": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used for separator elements on red Bg"
+        },
+        "toggle-on-container": {
+          "value": "{color.color.green.g200.value}",
+          "type": "color",
+          "comment": "Used for toggle items when ON"
+        },
+        "content-neutral-soft": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for information messages"
+        },
+        "content-warning-soft": {
+          "value": "{color.color.orange.o100.value}",
+          "type": "color",
+          "comment": "Used for warning messages"
+        },
+        "toggle-off-container": {
+          "value": "{color.color.opacity.black.op10.value}",
+          "type": "color",
+          "comment": "Used for toggle items when OFF"
+        },
+        "content-negative-soft": {
+          "value": "{color.color.red.r100.value}",
+          "type": "color",
+          "comment": "Used for negative messages"
+        },
+        "content-positive-soft": {
+          "value": "{color.color.green.g100.value}",
+          "type": "color",
+          "comment": "Used for positive messages"
+        },
+        "content-neutral-strong": {
+          "value": "{color.color.black.bk400.value}",
+          "type": "color",
+          "comment": "Used for information messages"
+        },
+        "content-warning-strong": {
+          "value": "{color.color.orange.o400.value}",
+          "type": "color",
+          "comment": "Used for warning messages"
+        },
+        "content-negative-strong": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used for negative messages"
+        },
+        "content-positive-strong": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Used for positive messages"
+        },
+        "toggle-on-container_alt": {
+          "value": "{color.color.opacity.white.op70.value}",
+          "type": "color",
+          "comment": "Used for toggle items when ON with red Bg"
+        },
+        "content-information-soft": {
+          "value": "{color.color.blue.b100.value}",
+          "type": "color",
+          "comment": "Used for information messages"
+        },
+        "toggle-off-container_alt": {
+          "value": "{color.color.opacity.white.op30.value}",
+          "type": "color",
+          "comment": "Used for toggle items when OFF with red Bg"
+        },
+        "content-information-strong": {
+          "value": "{color.color.blue.b300.value}",
+          "type": "color",
+          "comment": "Used for information messages"
+        },
+        "red-card": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used for red cards during a match"
+        },
+        "tag-cashout": {
+          "value": "{color.color.brand.cashout.value}",
+          "type": "color",
+          "comment": "Used only for cashout tags"
+        },
+        "yellow-card": {
+          "value": "{color.color.yellow.y400.value}",
+          "type": "color",
+          "comment": "Used for yellow cards during a match"
+        },
+        "tag-superlive": {
+          "value": "{color.color.brand.superlive.value}",
+          "type": "color",
+          "comment": "Used only for superlive tags"
+        },
+        "content-multiplus-soft": {
+          "value": "{color.color.orange.o200.value}",
+          "type": "color",
+          "comment": "Used for information messages"
+        },
+        "content-multiplus-strong": {
+          "value": "{color.color.orange.o500.value}",
+          "type": "color",
+          "comment": "Used for information messages"
+        }
+      },
+      "data": {
+        "graph-up": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Used for showing up a graph going up "
+        },
+        "trend-low": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used to present negative data"
+        },
+        "trend-mid": {
+          "value": "{color.color.orange.o400.value}",
+          "type": "color",
+          "comment": "Used to present average data"
+        },
+        "graph-down": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used for showing up a graph going down"
+        },
+        "trend-high": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Used to present positive data"
+        },
+        "trend-low-alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used to present negative data on Red Bg"
+        },
+        "trend-mid_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used to present average data on Red Bg"
+        },
+        "trend-high_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used to present positive data on Red Bg"
+        },
+        "trend-container": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for the Bg of an element containing data"
+        },
+        "trend-container_alt": {
+          "value": "{color.color.opacity.black.op40.value}",
+          "type": "color",
+          "comment": "Used for the Bg of an element containing data on red Bg"
+        }
+      },
+      "border": {
+        "soft": {
+          "value": "{color.color.black.bk300.value}",
+          "type": "color",
+          "comment": "Basic Border for elements"
+        },
+        "error": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Border informing on an error"
+        },
+        "selected": {
+          "value": "{color.color.black.bk500.value}",
+          "type": "color",
+          "comment": "Border for selected elements"
+        },
+        "soft_alt": {
+          "value": "{color.color.red.r200.value}",
+          "type": "color",
+          "comment": "Basic Border for elements on red Bgs"
+        },
+        "error_alt": {
+          "value": "{color.color.red.r500.value}",
+          "type": "color",
+          "comment": "Border informing on an error on red Bg"
+        },
+        "selected_alt": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Border for selected elements on red Bg"
+        },
+        "button-betting-on": {
+          "value": "{color.color.yellow.y400.value}",
+          "type": "color",
+          "comment": "Border for betting buttons on Live card"
+        }
+      },
+      "button": {
+        "info": {
+          "value": "{color.color.blue.b400.value}",
+          "type": "color",
+          "comment": "Used for buttons turning into banners"
+        },
+        "ghost": {
+          "value": "{color.color.opacity.black.op00.value}",
+          "type": "color",
+          "comment": "Used for all subtle actions"
+        },
+        "group": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for buttons grouped together"
+        },
+        "primary": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used for all primary actions"
+        },
+        "back-top": {
+          "value": "{color.color.opacity.grey.op70.value}",
+          "type": "color",
+          "comment": "Used for buttons grouped together on red Bg"
+        },
+        "checkout": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used for checkout items"
+        },
+        "keyboard": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for the custom keyboard "
+        },
+        "tertiary": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used for all tertiary actions"
+        },
+        "filter-on": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used for filtering actions when ON"
+        },
+        "ghost_alt": {
+          "value": "{color.color.opacity.white.op00.value}",
+          "type": "color",
+          "comment": "Used for all subtle actions on red Bg"
+        },
+        "group_alt": {
+          "value": "{color.color.opacity.black.op00.value}",
+          "type": "color",
+          "comment": "Used for buttons grouped together on red Bg"
+        },
+        "secondary": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for all secondary actions"
+        },
+        "filter-off": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for filtering actions when OFF"
+        },
+        "primary_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used for all primary actions on red Bg"
+        },
+        "info_pressed": {
+          "value": "{color.color.blue.b300.value}",
+          "type": "color",
+          "comment": "Used for buttons turning into banners"
+        },
+        "tertiary_alt": {
+          "value": "{color.color.opacity.white.op20.value}",
+          "type": "color",
+          "comment": "Used for all tertiary actions on red Bg"
+        },
+        "countdown_red": {
+          "value": "{color.color.opacity.red.op60.value}",
+          "type": "color",
+          "comment": "Used for the countdown on buttons"
+        },
+        "ghost_pressed": {
+          "value": "{color.color.opacity.black.op10.value}",
+          "type": "color",
+          "comment": "Used for all subtle actions"
+        },
+        "info_selected": {
+          "value": "{color.color.blue.b500.value}",
+          "type": "color",
+          "comment": "Used for buttons turning into banners"
+        },
+        "secondary_alt": {
+          "value": "{color.color.red.r500.value}",
+          "type": "color",
+          "comment": "Used for all secondary actions on red Bg"
+        },
+        "countdown_dark": {
+          "value": "{color.color.opacity.black.op20.value}",
+          "type": "color",
+          "comment": "Used for the countdown on buttons"
+        },
+        "ghost_selected": {
+          "value": "{color.color.opacity.black.op20.value}",
+          "type": "color",
+          "comment": "Used for all subtle actions"
+        },
+        "countdown_light": {
+          "value": "{color.color.opacity.white.op20.value}",
+          "type": "color",
+          "comment": "Used for the countdown on buttons"
+        },
+        "primary_pressed": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used for all primary actions"
+        },
+        "back-top_pressed": {
+          "value": "{color.color.opacity.grey.op50.value}",
+          "type": "color",
+          "comment": "Used for buttons grouped together on red Bg"
+        },
+        "checkout_pressed": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used for checkout items"
+        },
+        "keyboard_pressed": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for the custom keyboard "
+        },
+        "primary_selected": {
+          "value": "{color.color.red.r500.value}",
+          "type": "color",
+          "comment": "Used for all primary actions"
+        },
+        "tertiary_pressed": {
+          "value": "{color.color.black.bk700.value}",
+          "type": "color",
+          "comment": "Used for all tertiary actions"
+        },
+        "checkout_selected": {
+          "value": "{color.color.red.r500.value}",
+          "type": "color",
+          "comment": "Used for checkout items"
+        },
+        "filter-on_pressed": {
+          "value": "{color.color.black.bk700.value}",
+          "type": "color",
+          "comment": "Used for filtering actions when ON"
+        },
+        "ghost_alt_pressed": {
+          "value": "{color.color.opacity.white.op10.value}",
+          "type": "color",
+          "comment": "Used for all subtle actions on red Bg"
+        },
+        "keyboard_selected": {
+          "value": "{color.color.black.bk300.value}",
+          "type": "color",
+          "comment": "Used for the custom keyboard "
+        },
+        "secondary_pressed": {
+          "value": "{color.color.black.bk300.value}",
+          "type": "color",
+          "comment": "Used for all secondary actions"
+        },
+        "tertiary_selected": {
+          "value": "{color.color.black.bk600.value}",
+          "type": "color",
+          "comment": "Used for all tertiary actions"
+        },
+        "filter-off_pressed": {
+          "value": "{color.color.black.bk300.value}",
+          "type": "color",
+          "comment": "Used for filtering actions when OFF"
+        },
+        "ghost_alt_selected": {
+          "value": "{color.color.opacity.white.op20.value}",
+          "type": "color",
+          "comment": "Used for all subtle actions on red Bg"
+        },
+        "secondary_selected": {
+          "value": "{color.color.black.bk400.value}",
+          "type": "color",
+          "comment": "Used for all secondary actions"
+        },
+        "primary_alt_pressed": {
+          "value": "{color.color.black.bk200.value}",
+          "type": "color",
+          "comment": "Used for all primary actions on red Bg"
+        },
+        "primary_alt_selected": {
+          "value": "{color.color.black.bk300.value}",
+          "type": "color",
+          "comment": "Used for all primary actions on red Bg"
+        },
+        "tertiary_alt_pressed": {
+          "value": "{color.color.opacity.white.op30.value}",
+          "type": "color",
+          "comment": "Used for all tertiary actions on red Bg"
+        },
+        "secondary_alt_pressed": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used for all secondary actions on red Bg"
+        },
+        "tertiary_alt_selected": {
+          "value": "{color.color.opacity.white.op40.value}",
+          "type": "color",
+          "comment": "Used for all tertiary actions on red Bg"
+        },
+        "secondary_alt_selected": {
+          "value": "{color.color.red.r600.value}",
+          "type": "color",
+          "comment": "Used for all secondary actions on red Bg"
+        },
+        "betting": {
+          "value": "{color.color.yellow.y400.value}",
+          "type": "color",
+          "comment": "Only used for betting CTAs"
+        },
+        "cashout": {
+          "value": "{color.color.brand.cashout.value}",
+          "type": "color",
+          "comment": "Only used for Cashout CTAs"
+        },
+        "betting-up": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Only used for betting CTAs"
+        },
+        "cashout_alt": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Only used for Cashout CTAs on red Bg"
+        },
+        "betting-down": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Only used for betting CTAs"
+        },
+        "betting_pressed": {
+          "value": "{color.color.yellow.y300.value}",
+          "type": "color",
+          "comment": "Only used for betting CTAs"
+        },
+        "cashout_pressed": {
+          "value": "{color.color.blue.b300.value}",
+          "type": "color",
+          "comment": "Only used for Cashout CTAs"
+        },
+        "betting_selected": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Only used for betting CTAs"
+        },
+        "cashout_selected": {
+          "value": "{color.color.blue.b500.value}",
+          "type": "color",
+          "comment": "Only used for Cashout CTAs"
+        },
+        "cashout_alt_pressed": {
+          "value": "{color.color.black.bk700.value}",
+          "type": "color",
+          "comment": "Only used for Cashout CTAs on red Bg"
+        },
+        "cashout_alt_selected": {
+          "value": "{color.color.black.bk600.value}",
+          "type": "color",
+          "comment": "Only used for Cashout CTAs on red Bg"
+        }
+      },
+      "typo": {
+        "list": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Only for text inside grouped lists"
+        },
+        "brand": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Only for branded text"
+        },
+        "primary": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used on text for high contrast"
+        },
+        "warning": {
+          "value": "{color.color.yellow.y500.value}",
+          "type": "color",
+          "comment": "Used on text for warning messages"
+        },
+        "negative": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used on text for negative messages"
+        },
+        "positive": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Used on text for positive messages"
+        },
+        "tertiary": {
+          "value": "{color.color.black.bk400.value}",
+          "type": "color",
+          "comment": "Used on non-important text information"
+        },
+        "brand_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Only for branded text"
+        },
+        "secondary": {
+          "value": "{color.color.black.bk600.value}",
+          "type": "color",
+          "comment": "Used on non-critical text information"
+        },
+        "tab-active": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "When a tab element is active"
+        },
+        "brand_solid": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Only for branded text"
+        },
+        "information": {
+          "value": "{color.color.blue.b400.value}",
+          "type": "color",
+          "comment": "Used on text for informative messages"
+        },
+        "primary_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used on text that does not swap"
+        },
+        "warning_alt": {
+          "value": "{color.color.yellow.y500.value}",
+          "type": "color",
+          "comment": "Used on text for warning messages"
+        },
+        "negative_alt": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color",
+          "comment": "Used on text for negative messages"
+        },
+        "positive_alt": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Used on text for positive messages"
+        },
+        "tab-inactive": {
+          "value": "{color.color.black.bk400.value}",
+          "type": "color",
+          "comment": "When a tab element is inactive"
+        },
+        "tertiary_alt": {
+          "value": "{color.color.opacity.white.op50.value}",
+          "type": "color",
+          "comment": "Used on non-important text information on colored BG"
+        },
+        "primary_solid": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Used on text for high contrast"
+        },
+        "secondary_alt": {
+          "value": "{color.color.opacity.white.op70.value}",
+          "type": "color",
+          "comment": "Used on non-critical text information on colored BG"
+        },
+        "tab-active_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "When a tab element is active on a red BG"
+        },
+        "information_alt": {
+          "value": "{color.color.blue.b400.value}",
+          "type": "color",
+          "comment": "Used on text for informative messages"
+        },
+        "tab-inactive_alt": {
+          "value": "{color.color.red.r200.value}",
+          "type": "color",
+          "comment": "When a tab element is inactive on a red BG"
+        },
+        "primary_solid_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Used on text for high contrast on colored Bg"
+        },
+        "quinte": {
+          "value": "{color.color.violet.v300.value}",
+          "type": "color",
+          "comment": "Used for Quinte"
+        },
+        "tertio": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used for Tertio"
+        },
+        "duo-one": {
+          "value": "{color.color.orange.o500.value}",
+          "type": "color",
+          "comment": "Used for Duo one"
+        },
+        "quatrio": {
+          "value": "{color.color.pink.p400.value}",
+          "type": "color",
+          "comment": "Used for Quatrio"
+        },
+        "duo-four": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Used for Duo four"
+        },
+        "solo-one": {
+          "value": "{color.color.cyan.c400.value}",
+          "type": "color",
+          "comment": "Used for Solo one"
+        },
+        "solo-two": {
+          "value": "{color.color.blue.b300.value}",
+          "type": "color",
+          "comment": "Used for Solo two"
+        },
+        "solo-four": {
+          "value": "{color.color.blue.b400.value}",
+          "type": "color",
+          "comment": "Used for Solo four"
+        },
+        "cashout": {
+          "value": "{color.color.brand.cashout.value}",
+          "type": "color",
+          "comment": "Only for cashout text "
+        },
+        "multiplus": {
+          "value": "{color.color.brand.multiplus.value}",
+          "type": "color",
+          "comment": "Only for cashout text "
+        },
+        "betting-on": {
+          "value": "{color.color.yellow.y400.value}",
+          "type": "color",
+          "comment": "Only for the text of betting buttons"
+        },
+        "live-score": {
+          "value": "{color.color.yellow.y400.value}",
+          "type": "color",
+          "comment": "Only for text score during live match"
+        },
+        "betting-off": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color",
+          "comment": "Only for the text of betting buttons"
+        },
+        "betting-on-live": {
+          "value": "{color.color.yellow.y400.value}",
+          "type": "color",
+          "comment": "Only for the text of Live betting buttons"
+        },
+        "betting-trend-up": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Only for the text of trending up betting buttons"
+        },
+        "betting-trend-down": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color",
+          "comment": "Only for the text of trending down betting buttons"
+        }
+      },
+      "icon": {
+        "brand": {
+          "value": "{color.color.brand.betclic.value}",
+          "type": "color"
+        },
+        "primary": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{color.color.yellow.y500.value}",
+          "type": "color"
+        },
+        "negative": {
+          "value": "{color.color.red.r300.value}",
+          "type": "color"
+        },
+        "positive": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{color.color.black.bk300.value}",
+          "type": "color"
+        },
+        "brand_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.color.black.bk500.value}",
+          "type": "color"
+        },
+        "brand_solid": {
+          "value": "{color.color.brand.betclic.value}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{color.color.blue.b400.value}",
+          "type": "color"
+        },
+        "primary_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color"
+        },
+        "warning_alt": {
+          "value": "{color.color.yellow.y500.value}",
+          "type": "color"
+        },
+        "tertiary_alt": {
+          "value": "{color.color.opacity.white.op50.value}",
+          "type": "color"
+        },
+        "primary_solid": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color"
+        },
+        "secondary_alt": {
+          "value": "{color.color.opacity.white.op70.value}",
+          "type": "color"
+        },
+        "container-primary": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color"
+        },
+        "primary_solid_alt": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color"
+        },
+        "container-secondary": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color"
+        },
+        "quinte": {
+          "value": "{color.color.violet.v300.value}",
+          "type": "color",
+          "comment": "Used for Quinte"
+        },
+        "tertio": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color",
+          "comment": "Used for Tertio"
+        },
+        "duo-one": {
+          "value": "{color.color.orange.o500.value}",
+          "type": "color",
+          "comment": "Used for Duo one"
+        },
+        "quatrio": {
+          "value": "{color.color.pink.p400.value}",
+          "type": "color",
+          "comment": "Used for Quatrio"
+        },
+        "duo-four": {
+          "value": "{color.color.green.g400.value}",
+          "type": "color",
+          "comment": "Used for Duo four"
+        },
+        "solo-one": {
+          "value": "{color.color.cyan.c400.value}",
+          "type": "color",
+          "comment": "Used for Solo one"
+        },
+        "solo-two": {
+          "value": "{color.color.blue.b300.value}",
+          "type": "color",
+          "comment": "Used for Solo two"
+        },
+        "solo-four": {
+          "value": "{color.color.blue.b400.value}",
+          "type": "color",
+          "comment": "Used for Solo four"
+        },
+        "live": {
+          "value": "{color.color.red.r400.value}",
+          "type": "color"
+        },
+        "boost": {
+          "value": "{color.color.brand.boost.value}",
+          "type": "color"
+        },
+        "cashout": {
+          "value": "{color.color.brand.cashout.value}",
+          "type": "color"
+        },
+        "safebet": {
+          "value": "{color.color.brand.safebet-tertiary.value}",
+          "type": "color"
+        },
+        "freebets": {
+          "value": "{color.color.brand.freebets.value}",
+          "type": "color"
+        },
+        "multiplus": {
+          "value": "{color.color.brand.multiplus.value}",
+          "type": "color"
+        },
+        "betting-on": {
+          "value": "{color.color.yellow.y400.value}",
+          "type": "color"
+        },
+        "betting-off": {
+          "value": "{color.color.black.bk800.value}",
+          "type": "color"
+        },
+        "betting-on-live": {
+          "value": "{color.color.yellow.y400.value}",
+          "type": "color"
+        },
+        "betting-trend-up": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color"
+        },
+        "betting-trend-down": {
+          "value": "{color.color.black.bk100.value}",
+          "type": "color"
+        }
+      },
+      "opacity": {
+        "red": {
+          "op00": {
+            "value": "#e1001400",
+            "type": "color",
+            "comment": "Opacity 0%"
+          },
+          "op10": {
+            "value": "#e100141a",
+            "type": "color",
+            "comment": "Opacity 10%"
+          },
+          "op20": {
+            "value": "#e1001433",
+            "type": "color",
+            "comment": "Opacity 20%"
+          },
+          "op30": {
+            "value": "#e100144d",
+            "type": "color",
+            "comment": "Opacity 30%"
+          },
+          "op40": {
+            "value": "#e1001466",
+            "type": "color",
+            "comment": "Opacity 40%"
+          },
+          "op50": {
+            "value": "#e1001480",
+            "type": "color",
+            "comment": "Opacity 50%"
+          },
+          "op60": {
+            "value": "#e1001499",
+            "type": "color",
+            "comment": "Opacity 60%"
+          },
+          "op70": {
+            "value": "#e10014b3",
+            "type": "color",
+            "comment": "Opacity 70%"
+          },
+          "op80": {
+            "value": "#e10014cc",
+            "type": "color",
+            "comment": "Opacity 80%"
+          },
+          "op90": {
+            "value": "#e10014e6",
+            "type": "color",
+            "comment": "Opacity 90%"
+          }
+        },
+        "yellow": {
+          "op00": {
+            "value": "#ffcc0000",
+            "type": "color",
+            "comment": "Opacity 0%"
+          },
+          "op10": {
+            "value": "#ffcc001a",
+            "type": "color",
+            "comment": "Opacity 10%"
+          },
+          "op20": {
+            "value": "#ffcc0033",
+            "type": "color",
+            "comment": "Opacity 20%"
+          },
+          "op30": {
+            "value": "#ffcc004d",
+            "type": "color",
+            "comment": "Opacity 30%"
+          },
+          "op40": {
+            "value": "#ffcc0066",
+            "type": "color",
+            "comment": "Opacity 40%"
+          },
+          "op50": {
+            "value": "#ffcc0080",
+            "type": "color",
+            "comment": "Opacity 50%"
+          },
+          "op60": {
+            "value": "#ffcc0099",
+            "type": "color",
+            "comment": "Opacity 60%"
+          },
+          "op70": {
+            "value": "#ffcc00b3",
+            "type": "color",
+            "comment": "Opacity 70%"
+          },
+          "op80": {
+            "value": "#ffcc00cc",
+            "type": "color",
+            "comment": "Opacity 80%"
+          },
+          "op90": {
+            "value": "#ffcc00e6",
+            "type": "color",
+            "comment": "Opacity 90%"
+          }
+        },
+        "orange": {
+          "op00": {
+            "value": "#ff993f00",
+            "type": "color",
+            "comment": "Opacity 0%"
+          },
+          "op10": {
+            "value": "#ff993f1a",
+            "type": "color",
+            "comment": "Opacity 10%"
+          },
+          "op20": {
+            "value": "#ff993f33",
+            "type": "color",
+            "comment": "Opacity 20%"
+          },
+          "op30": {
+            "value": "#ff993f4d",
+            "type": "color",
+            "comment": "Opacity 30%"
+          },
+          "op40": {
+            "value": "#ff993f66",
+            "type": "color",
+            "comment": "Opacity 40%"
+          },
+          "op50": {
+            "value": "#ff993f80",
+            "type": "color",
+            "comment": "Opacity 50%"
+          },
+          "op60": {
+            "value": "#ff993f99",
+            "type": "color",
+            "comment": "Opacity 60%"
+          },
+          "op70": {
+            "value": "#ff993fb3",
+            "type": "color",
+            "comment": "Opacity 70%"
+          },
+          "op80": {
+            "value": "#ff993fcc",
+            "type": "color",
+            "comment": "Opacity 80%"
+          },
+          "op90": {
+            "value": "#ff993fe6",
+            "type": "color",
+            "comment": "Opacity 90%"
+          }
+        },
+        "white": {
+          "op00": {
+            "value": "#ffffff00",
+            "type": "color",
+            "comment": "Opacity 0%"
+          },
+          "op10": {
+            "value": "#ffffff1a",
+            "type": "color",
+            "comment": "Opacity 10%"
+          },
+          "op20": {
+            "value": "#ffffff33",
+            "type": "color",
+            "comment": "Opacity 20%"
+          },
+          "op30": {
+            "value": "#ffffff4d",
+            "type": "color",
+            "comment": "Opacity 30%"
+          },
+          "op40": {
+            "value": "#ffffff66",
+            "type": "color",
+            "comment": "Opacity 40%"
+          },
+          "op50": {
+            "value": "#ffffff80",
+            "type": "color",
+            "comment": "Opacity 50%"
+          },
+          "op60": {
+            "value": "#ffffff99",
+            "type": "color",
+            "comment": "Opacity 60%"
+          },
+          "op70": {
+            "value": "#ffffffb3",
+            "type": "color",
+            "comment": "Opacity 70%"
+          },
+          "op80": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "comment": "Opacity 80%"
+          },
+          "op90": {
+            "value": "#ffffffe6",
+            "type": "color",
+            "comment": "Opacity 90%"
+          }
+        },
+        "green": {
+          "op00": {
+            "value": "#33b37200",
+            "type": "color",
+            "comment": "Opacity 0%"
+          },
+          "op10": {
+            "value": "#33b3721a",
+            "type": "color",
+            "comment": "Opacity 10%"
+          },
+          "op20": {
+            "value": "#33b37233",
+            "type": "color",
+            "comment": "Opacity 20%"
+          },
+          "op30": {
+            "value": "#33b3724d",
+            "type": "color",
+            "comment": "Opacity 30%"
+          },
+          "op40": {
+            "value": "#33b37266",
+            "type": "color",
+            "comment": "Opacity 40%"
+          },
+          "op50": {
+            "value": "#33b37280",
+            "type": "color",
+            "comment": "Opacity 50%"
+          },
+          "op60": {
+            "value": "#33b37299",
+            "type": "color",
+            "comment": "Opacity 60%"
+          },
+          "op70": {
+            "value": "#33b372b3",
+            "type": "color",
+            "comment": "Opacity 70%"
+          },
+          "op80": {
+            "value": "#33b372cc",
+            "type": "color",
+            "comment": "Opacity 80%"
+          },
+          "op90": {
+            "value": "#33b372e6",
+            "type": "color",
+            "comment": "Opacity 90%"
+          }
+        },
+        "black": {
+          "op00": {
+            "value": "#272a3000",
+            "type": "color",
+            "comment": "Opacity 0%"
+          },
+          "op10": {
+            "value": "#272a301a",
+            "type": "color",
+            "comment": "Opacity 10%"
+          },
+          "op20": {
+            "value": "#272a3033",
+            "type": "color",
+            "comment": "Opacity 20%"
+          },
+          "op30": {
+            "value": "#272a304d",
+            "type": "color",
+            "comment": "Opacity 30%"
+          },
+          "op40": {
+            "value": "#272a3066",
+            "type": "color",
+            "comment": "Opacity 40%"
+          },
+          "op50": {
+            "value": "#272a3080",
+            "type": "color",
+            "comment": "Opacity 50%"
+          },
+          "op60": {
+            "value": "#272a3099",
+            "type": "color",
+            "comment": "Opacity 60%"
+          },
+          "op70": {
+            "value": "#272a30b3",
+            "type": "color",
+            "comment": "Opacity 70%"
+          },
+          "op80": {
+            "value": "#272a30cc",
+            "type": "color",
+            "comment": "Opacity 80%"
+          },
+          "op90": {
+            "value": "#272a30e6",
+            "type": "color",
+            "comment": "Opacity 90%"
+          }
+        },
+        "grey": {
+          "op00": {
+            "value": "#9aa1af00",
+            "type": "color",
+            "comment": "Opacity 0%"
+          },
+          "op10": {
+            "value": "#9aa1af1a",
+            "type": "color",
+            "comment": "Opacity 10%"
+          },
+          "op20": {
+            "value": "#9aa1af33",
+            "type": "color",
+            "comment": "Opacity 20%"
+          },
+          "op30": {
+            "value": "#9aa1af4d",
+            "type": "color",
+            "comment": "Opacity 30%"
+          },
+          "op40": {
+            "value": "#9aa1af66",
+            "type": "color",
+            "comment": "Opacity 40%"
+          },
+          "op50": {
+            "value": "#9aa1af80",
+            "type": "color",
+            "comment": "Opacity 50%"
+          },
+          "op60": {
+            "value": "#9aa1af99",
+            "type": "color",
+            "comment": "Opacity 60%"
+          },
+          "op70": {
+            "value": "#9aa1afb3",
+            "type": "color",
+            "comment": "Opacity 70%"
+          },
+          "op80": {
+            "value": "#9aa1afcc",
+            "type": "color",
+            "comment": "Opacity 80%"
+          },
+          "op90": {
+            "value": "#9aa1afe6",
+            "type": "color",
+            "comment": "Opacity 90%"
+          }
+        },
+        "blue": {
+          "op00": {
+            "value": "#2472d900",
+            "type": "color",
+            "comment": "Opacity 0%"
+          },
+          "op10": {
+            "value": "#2472d91a",
+            "type": "color",
+            "comment": "Opacity 10%"
+          },
+          "op20": {
+            "value": "#2472d933",
+            "type": "color",
+            "comment": "Opacity 20%"
+          },
+          "op30": {
+            "value": "#2472d94d",
+            "type": "color",
+            "comment": "Opacity 30%"
+          },
+          "op40": {
+            "value": "#2472d966",
+            "type": "color",
+            "comment": "Opacity 40%"
+          },
+          "op50": {
+            "value": "#2472d980",
+            "type": "color",
+            "comment": "Opacity 50%"
+          },
+          "op60": {
+            "value": "#2472d999",
+            "type": "color",
+            "comment": "Opacity 60%"
+          },
+          "op70": {
+            "value": "#2472d9b3",
+            "type": "color",
+            "comment": "Opacity 70%"
+          },
+          "op80": {
+            "value": "#2472d9cc",
+            "type": "color",
+            "comment": "Opacity 80%"
+          },
+          "op90": {
+            "value": "#2472d9e6",
+            "type": "color",
+            "comment": "Opacity 90%"
+          }
+        }
+      },
+      "decorative": {
+        "master-mission": {
+          "value": "{color.color.brand.master-mission.value}",
+          "type": "color"
+        },
+        "qatar-worldcup": {
+          "value": "{color.color.brand.qatar.value}",
+          "type": "color"
+        },
+        "firstbet-banner": {
+          "value": "{color.color.brand.firstbet.value}",
+          "type": "color"
+        },
+        "safebet-banner-primary": {
+          "value": "{color.color.brand.safebet-primary.value}",
+          "type": "color"
+        },
+        "safebet-banner-secondary": {
+          "value": "{color.color.brand.safebet-secondary.value}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
